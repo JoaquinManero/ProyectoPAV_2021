@@ -21,7 +21,7 @@ namespace MiPrimerProyecto
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
-            this.Text = "Logeoo!!!";
+            this.Text = "Logeo de usuario!!!!!!!!!";
         }
 
         private void lblUsuario_Click(object sender, EventArgs e)
